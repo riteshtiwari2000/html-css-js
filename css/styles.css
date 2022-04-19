@@ -1,0 +1,17 @@
+.navbar {
+    background: gray;
+    border: 2px solid black;
+}
+.navbar-brand{
+    height: fit-content;
+}
+.navbar-brand h1 {
+    color: black;
+}
+.myclass {
+    background-color: lightgrey;
+}
+.para{
+    background: lightcyan;
+}
+
